@@ -1,51 +1,90 @@
-# Tata Cybersecurity Analyst Job Simulation
+# Tata Consultancy Services Identity and Access Management (IAM) Job Simulation
+
+![IAM](https://img.shields.io/badge/IAM-blue)
+![RBAC](https://img.shields.io/badge/RBAC-green)
+![MFA](https://img.shields.io/badge/MFA-orange)
+![Cybersecurity Strategy](https://img.shields.io/badge/Cybersecurity_Strategy-red)
 
 ## Project Overview
 
-This project is based on the Tata Consultancy Services Cybersecurity Analyst Job Simulation completed on Forage in June 2026.
+Completed the Tata Consultancy Services (TCS) Identity and Access Management (IAM) Job Simulation on Forage in June 2026.
 
-The simulation focused on Identity and Access Management (IAM), cybersecurity consulting, business alignment, and platform integration. The project provided practical exposure to how organisations assess IAM requirements, design access management solutions, and align security controls with business objectives.
+The simulation focused on enterprise IAM assessment, solution design, and implementation planning for a global technology organisation undergoing digital transformation.
 
-## Scenario
+## Business Scenario
 
-The objective was to support a Cybersecurity Consulting team in assessing Identity and Access Management requirements and recommending appropriate IAM solutions for a client environment.
+TechCorp is a global technology company operating in over 100 countries with more than 150,000 employees.
 
-## Tasks Completed
+As part of its digital transformation strategy, the organisation sought to improve identity governance, automate access management, strengthen authentication controls, and securely integrate cloud, third-party, and legacy systems.
 
-- Reviewed Identity and Access Management (IAM) requirements
-- Conducted IAM strategy assessment
-- Evaluated alignment between cybersecurity controls and business objectives
-- Designed customised IAM recommendations
-- Developed platform integration considerations
-- Produced technical documentation
-- Delivered stakeholder-focused presentations
+## Task 1: IAM Readiness Assessment
+
+### Activities Performed
+
+* Assessed user lifecycle management processes
+* Evaluated access control mechanisms
+* Reviewed governance and compliance requirements
+* Identified security gaps and improvement opportunities
+* Developed an IAM readiness assessment framework
+
+## Task 2: IAM Solution Design
+
+### Activities Performed
+
+* Designed automated Joiner, Mover and Leaver (JML) processes
+* Developed Role-Based Access Control (RBAC) framework
+* Recommended Multi-Factor Authentication (MFA) and Single Sign-On (SSO)
+* Proposed Privileged Access Management (PAM) controls
+* Aligned IAM solutions with business objectives
+
+## Task 3: IAM Platform Implementation Planning
+
+### Activities Performed
+
+* Defined implementation phases and milestones
+* Planned resource allocation and project governance
+* Addressed integration challenges involving cloud, legacy and third-party applications
+* Recommended SAML, OAuth 2.0, OpenID Connect, SSO and MFA
+* Developed testing, deployment, monitoring and optimisation strategies
 
 ## Skills Demonstrated
 
-- Identity and Access Management (IAM)
-- Security Consulting
-- Risk Assessment
-- Business Analysis
-- Technical Documentation
-- Platform Integration
-- Stakeholder Communication
-- Cybersecurity Strategy
+* Identity and Access Management (IAM)
+* Identity Governance and Administration (IGA)
+* User Lifecycle Management
+* Role-Based Access Control (RBAC)
+* Multi-Factor Authentication (MFA)
+* Single Sign-On (SSO)
+* Privileged Access Management (PAM)
+* Security Governance
+* Risk Assessment
+* Security Architecture
+* Enterprise Integration
+* Cloud Identity Management
+* Compliance and Access Governance
+* Cybersecurity Strategy
 
-## Tools & Concepts
+## Deliverables
 
-- Identity and Access Management (IAM)
-- Access Control
-- Least Privilege
-- Authentication
-- Authorisation
-- Identity Governance
-- Cybersecurity Governance
-- Security Best Practices
+* IAM Readiness Assessment Report
+* IAM Solution Design Report
+* IAM Platform Implementation Plan
+* Tata Consultancy Services IAM Certificate
 
-## Key Takeaways
+## Technologies and Concepts
 
-This simulation strengthened my understanding of Identity and Access Management and demonstrated how security solutions must align with organisational objectives. It also provided practical experience communicating cybersecurity recommendations to both technical and non-technical stakeholders.
+* Microsoft Entra ID (Azure AD)
+* Active Directory
+* SailPoint / Saviynt
+* CyberArk
+* OAuth 2.0
+* SAML
+* OpenID Connect
+* RBAC
+* MFA
+* SSO
+* PAM
 
-## Evidence
+## Business Outcomes
 
-Certificate of completion included in this folder.
+The proposed IAM strategy improves security, reduces operational overhead, strengthens governance, enhances user experience, and provides a scalable framework to support TechCorp's continued growth and digital transformation initiatives.
