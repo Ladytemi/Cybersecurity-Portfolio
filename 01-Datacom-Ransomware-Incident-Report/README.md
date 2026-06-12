@@ -1,50 +1,94 @@
 # Datacom Cyber Security Operations Job Simulation
 
+![Incident Response](https://img.shields.io/badge/Incident_Response-blue)
+![Ransomware](https://img.shields.io/badge/Ransomware-red)
+![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-green)
+![Cybersecurity Operations](https://img.shields.io/badge/Cybersecurity_Operations-orange)
+
 ## Project Overview
 
-This project is based on the Datacom Cyber Security Operations Job Simulation completed on Forage in June 2026.
+This project was completed as part of the Datacom Cyber Security Operations Job Simulation on Forage in June 2026.
 
-The simulation focused on cybersecurity operations, incident response, ransomware investigation, and cybersecurity risk assessment. I worked through a simulated ransomware incident, identified indicators of compromise, analysed potential attack vectors, and produced recommendations to strengthen the client’s cybersecurity posture.
+The simulation provided practical exposure to cybersecurity operations, incident investigation, ransomware analysis, incident response, and cybersecurity risk assessment activities performed by cybersecurity professionals.
 
-## Scenario
+## Objectives
 
-A client experienced a ransomware cyberattack affecting business operations. The task involved reviewing the incident, identifying possible indicators of compromise, assessing risk, and recommending practical remediation steps.
+* Investigate a simulated ransomware attack
+* Identify indicators of compromise (IOCs)
+* Assess business impact and affected assets
+* Produce an incident investigation report
+* Conduct a cybersecurity risk assessment
+* Recommend security improvements and risk mitigation strategies
 
-## Tasks Completed
+## Task 1: Ransomware Incident Investigation
 
-- Investigated a simulated ransomware cyberattack
-- Identified indicators of compromise (IOCs)
-- Analysed possible attack vectors
-- Produced a cybersecurity incident report
-- Conducted a cybersecurity risk assessment
-- Identified critical assets, threats, vulnerabilities, and existing controls
-- Recommended risk mitigation strategies
+### Scenario
+
+Orion Health Services experienced a ransomware attack originating from a phishing email containing a malicious Excel attachment.
+
+### Activities Performed
+
+* Investigated the attack timeline
+* Identified indicators of compromise (IOCs)
+* Determined affected systems and compromised data
+* Assessed business impact
+* Developed containment and recovery recommendations
+* Produced an executive incident report
+
+### Key Findings
+
+* Phishing email served as the initial attack vector
+* Mimikatz was used for credential harvesting
+* Multiple systems were encrypted
+* Sensitive employee and patient-related data was exposed
+
+## Task 2: Cybersecurity Risk Assessment
+
+### Scenario
+
+Conducted a cybersecurity risk assessment for RetailNova Pty Ltd.
+
+### Activities Performed
+
+* Identified critical business assets
+* Evaluated threats and vulnerabilities
+* Assessed likelihood and impact ratings
+* Determined risk levels
+* Proposed mitigation strategies
+* Assigned risk ownership and treatment plans
+
+### Risks Identified
+
+* Phishing and credential compromise
+* Ransomware attacks
+* Third-party vendor data breaches
 
 ## Skills Demonstrated
 
-- Incident response
-- Ransomware investigation
-- Threat analysis
-- Risk assessment
-- Vulnerability assessment
-- Security reporting
-- Cybersecurity operations
-- Written communication
+* Incident Response
+* Threat Analysis
+* Risk Assessment
+* Risk Management
+* Security Reporting
+* Vulnerability Assessment
+* Cybersecurity Operations
+* Security Governance
 
-## Tools & Concepts
+## Deliverables
 
-- Incident Response Lifecycle
-- Indicators of Compromise (IOCs)
-- Risk Assessment
-- Threat Analysis
-- Vulnerability Management
-- Security Controls
-- Cybersecurity Reporting
+* Ransomware Incident Investigation Report
+* Cybersecurity Risk Assessment Report
+* Datacom Cyber Security Operations Certificate
 
-## Key Takeaways
+## Technologies and Concepts
 
-This simulation strengthened my understanding of how cybersecurity teams investigate ransomware incidents, assess organisational risk, and communicate findings clearly to stakeholders. It also helped me practise writing professional incident response recommendations.
+* Ransomware Analysis
+* Indicators of Compromise (IOCs)
+* Risk Matrix Evaluation
+* Security Controls
+* Governance and Compliance
+* Threat Identification
 
-## Evidence
+## Outcome
 
-Certificate of completion included in this folder.
+Successfully completed the Datacom Cyber Security Operations Job Simulation and gained practical experience in cybersecurity incident investigation, risk assessment, and security reporting.
