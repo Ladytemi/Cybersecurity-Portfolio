@@ -20,28 +20,41 @@ My areas of interest include:
 
 ## Portfolio Projects
 
-### 01. Datacom Ransomware Incident Report
-Investigated a simulated ransomware incident, identified indicators of compromise, analysed attack vectors, and provided incident response recommendations.
+### 📁 Datacom Cyber Security Operations Job Simulation
 
-### 02. Tata IAM Strategy Assessment
-Assessed Identity and Access Management requirements, reviewed IAM strategy, proposed custom IAM solutions, and considered platform integration.
+Investigated a simulated ransomware attack, analysed indicators of compromise, conducted a cybersecurity risk assessment, and produced incident response recommendations.
 
-### 03. AIG Cybersecurity Incident Response
+➡️ [View Project](./01-Datacom-Ransomware-Incident-Report)
+
+---
+
+### 📁 Tata Consultancy Services IAM Job Simulation
+
+Assessed enterprise IAM readiness, designed IAM solutions, and developed an IAM implementation roadmap for a global technology organisation.
+
+➡️ [View Project](./02-Tata-IAM-Strategy-Assessment)
+
+---
+
+### 📁 AIG Cybersecurity Incident Response
+
 Coming soon.
 
-### 04. Deloitte Suspicious Activity Analysis
-Analysed web activity logs to identify suspicious user behaviour and support cyber incident investigation.
+---
 
-### 05. Mastercard Phishing Awareness Assessment
-Reviewed phishing risks, identified business areas requiring improved awareness, and recommended targeted training.
+### 📁 Deloitte Suspicious Activity Analysis
 
-### 06. Commonwealth Bank Splunk Fraud Detection
-Used Splunk-based analysis to identify fraud patterns and support cybersecurity incident response.
+Coming soon.
 
-## Tools & Concepts
+---
 
-Splunk | Wazuh | Wireshark | Linux CLI | Python | SQL | SIEM | SOC Triage | Incident Response | MITRE ATT&CK | IAM | Phishing Analysis | Vulnerability Assessment
+### 📁 Mastercard Phishing Awareness Assessment
 
-## Contact
+Coming soon.
 
-LinkedIn: linkedin.com/in/temi-olukoya
+---
+
+### 📁 Commonwealth Bank Splunk Fraud Detection
+
+Coming soon.
+
