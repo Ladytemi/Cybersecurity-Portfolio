@@ -36,9 +36,11 @@ Assessed enterprise IAM readiness, designed IAM solutions, and developed an IAM 
 
 ---
 
-### 📁 AIG Cybersecurity Incident Response
+### 📁 AIG Shields Up: Cybersecurity Job Simulation
 
-Coming soon.
+Completed a cybersecurity threat analysis simulation involving vulnerability research, remediation planning, cybersecurity reporting, and Python-based ransomware decryption.
+
+➡️ [View Project](./03-AIG-Cybersecurity-Incident-Response) 
 
 ---
 
