@@ -26,6 +26,12 @@ The framework is widely used by SOC analysts, incident responders, threat hunter
 - ATT&CK Navigator
 - ATT&CK Matrices
 - Detection and Mitigation Strategies
+- MITRE ATT&CK Framework
+- ATT&CK Tactics and Techniques
+- Threat Intelligence Mapping
+- ATT&CK Navigator
+- MITRE D3FEND Overview
+- Defensive Countermeasure Mapping
 
 ## Key Concepts Learned
 
@@ -81,6 +87,12 @@ The MITRE ATT&CK Framework helps defenders:
 - Develop detection rules
 - Map attacker TTPs
 - Strengthen incident response processes
+
+## MITRE D3FEND
+
+MITRE D3FEND is a defensive knowledge graph that complements the ATT&CK framework. While ATT&CK focuses on adversary behaviors and techniques, D3FEND maps defensive countermeasures and security controls that can be used to detect, prevent, or mitigate those techniques.
+
+Together, ATT&CK and D3FEND help security teams understand both offensive and defensive perspectives of cybersecurity operations.
 
 ## Key Takeaway
 
