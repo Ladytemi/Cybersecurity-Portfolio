@@ -1,51 +1,72 @@
-# Summit
-
-## Room Information
-
-- Platform: TryHackMe
-- Room: Summit
-- Type: Threat Detection / SOC Analysis
-- Difficulty: Intermediate
-- Status: Completed
+# Pyramid of Pain Challenge
 
 ## Overview
 
-Summit is a practical blue-team room that combines several cybersecurity frameworks and detection methodologies to identify and disrupt adversary activity.
+This TryHackMe challenge focused on applying the Pyramid of Pain framework in a practical threat detection engineering scenario.
 
-The room focuses on applying concepts from the Pyramid of Pain, MITRE ATT&CK, threat intelligence, and detection engineering to increase the operational cost for attackers.
+In the lab, I worked as a blue team analyst supporting PicoSecure during a simulated malware detection engagement. The objective was to identify and block multiple malware samples by creating increasingly effective detection rules based on different levels of the Pyramid of Pain.
 
-Participants analyze indicators of compromise (IOCs), identify adversary behaviors, and determine the most effective defensive actions against malicious activity.
+The exercise demonstrated how defenders can increase attacker operational costs by moving beyond simple Indicators of Compromise (IOCs) such as hashes and IP addresses and focusing on more resilient detection opportunities.
 
-## Topics Covered
+---
+
+## Objectives
+
+- Understand the Pyramid of Pain framework in a practical environment
+- Detect multiple malware samples using security controls
+- Improve detection logic across several indicator levels
+- Increase attacker effort by implementing stronger detection mechanisms
+- Apply defensive thinking through iterative detection engineering
+
+---
+
+## Tasks Completed
+
+Successfully detected and blocked:
+
+- sample1.exe
+- sample2.exe
+- sample3.exe
+- sample4.exe
+- sample5.exe
+
+Successfully completed the Sphinx challenge and obtained the final completion flag.
+
+---
+
+## Skills Demonstrated
+
+- Threat Detection Engineering
+- Malware Detection
+- Indicator Analysis
+- Pyramid of Pain Application
+- Blue Team Operations
+- Security Monitoring
+- Detection Rule Development
+- Threat Hunting Concepts
+
+---
+
+## Key Takeaways
+
+- Hash-based detections are easy for attackers to evade.
+- Detection strategies become more effective higher up the Pyramid of Pain.
+- Behavioral indicators and TTP-based detections create greater operational costs for adversaries.
+- Detection engineering is a critical component of modern blue team operations.
+- Layered detection approaches improve organizational resilience against malware attacks.
+
+---
+
+## Tools and Concepts
 
 - Pyramid of Pain
-- MITRE ATT&CK Framework
-- Threat Intelligence
-- Indicators of Compromise (IOCs)
-- Detection Engineering
-- Security Monitoring
-- Adversary Behavior Analysis
-- Defensive Countermeasures
+- Threat Detection Engineering
+- Malware Analysis Concepts
+- IOC Analysis
+- Blue Team Methodologies
 
-## Skills Developed
+---
 
-- Threat detection
-- IOC analysis
-- ATT&CK mapping
-- Security monitoring
-- Detection prioritization
-- Blue-team investigation techniques
-- Adversary disruption strategies
+## Completion
 
-## Practical Activities
-
-- Identified attacker indicators and behaviors
-- Evaluated detection opportunities
-- Applied Pyramid of Pain concepts
-- Mapped activity to ATT&CK techniques
-- Determined defensive actions that increase attacker costs
-- Completed scenario-based detection exercises
-
-## Key Takeaway
-
-Effective defenders focus on disrupting attacker behaviors rather than relying solely on simple indicators such as hashes and IP addresses. By targeting higher levels of the Pyramid of Pain, organizations can significantly increase the cost and complexity of adversary operations.
+Successfully completed all malware detection challenges and obtained the final Sphinx flag.
