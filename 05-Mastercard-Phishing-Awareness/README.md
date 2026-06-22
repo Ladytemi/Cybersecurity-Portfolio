@@ -8,6 +8,16 @@ This simulation provided hands-on exposure to designing realistic phishing campa
 
 ---
 
+### Mastercard Cybersecurity Virtual Experience Program
+
+**Focus Areas:** Phishing Awareness | Security Awareness Training | Social Engineering | Risk Reduction
+
+Designed a realistic phishing email simulation and analysed phishing campaign results to identify risky employee behaviours. Applied phishing detection principles and security awareness strategies to improve organisational cyber resilience.
+
+**Skills:** Security Awareness • Phishing Detection • Risk Assessment • Security Communication
+
+---
+
 ## Tasks Completed
 
 ### Task 1 – Design a Phishing Email Simulation
