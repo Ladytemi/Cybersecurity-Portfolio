@@ -20,6 +20,28 @@ My areas of interest include:
 
 ## Portfolio Projects
 
+
+### 📁 Deloitte Suspicious Activity Analysis
+Investigated suspicious web activity logs for Daikibo Industrials and identified automated API request behaviour linked to a suspected internal breach.
+
+➡️ [View Project](./04-Deloitte-Suspicious-Activity-Analysis)
+
+---
+
+### 📁 Mastercard Phishing Awareness Simulation
+Designed a phishing email simulation and analysed phishing awareness results to support employee security training and risk reduction.
+
+➡️ [View Project](./05-Mastercard-Phishing-Awareness)
+
+---
+
+### 📁 Commonwealth Bank Cybersecurity Job Simulation
+Completed cybersecurity tasks involving fraud detection analysis, incident response, password security awareness, and penetration testing.
+
+➡️ [View Project](./06-Commonwealth-Bank-Splunk-Fraud-Detection)
+
+---
+
 ### 📁 Datacom Cyber Security Operations Job Simulation
 
 Investigated a simulated ransomware attack, analysed indicators of compromise, conducted a cybersecurity risk assessment, and produced incident response recommendations.
