@@ -64,21 +64,4 @@ Completed a cybersecurity threat analysis simulation involving vulnerability res
 
 ➡️ [View Project](./03-AIG-Cybersecurity-Incident-Response) 
 
----
-
-### 📁 Deloitte Suspicious Activity Analysis
-
-Coming soon.
-
----
-
-### 📁 Mastercard Phishing Awareness Assessment
-
-Coming soon.
-
----
-
-### 📁 Commonwealth Bank Splunk Fraud Detection
-
-Coming soon.
 
