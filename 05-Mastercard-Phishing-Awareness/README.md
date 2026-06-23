@@ -1,5 +1,12 @@
 # Mastercard Cybersecurity Virtual Experience Program
 
+
+![Phishing](https://img.shields.io/badge/Phishing-red)
+![Security%20Awareness](https://img.shields.io/badge/Security%20Awareness-blue)
+![Social%20Engineering](https://img.shields.io/badge/Social%20Engineering-orange)
+![Risk%20Reduction](https://img.shields.io/badge/Risk%20Reduction-green)
+
+
 ## Overview
 
 Completed Mastercard's Cybersecurity Virtual Experience Program on Forage, focusing on phishing awareness, security awareness training, and phishing simulation analysis.
