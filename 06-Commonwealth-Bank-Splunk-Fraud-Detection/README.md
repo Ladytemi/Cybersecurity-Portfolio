@@ -1,5 +1,12 @@
 # Commonwealth Bank Cybersecurity Job Simulation
 
+
+![Fraud%20Detection](https://img.shields.io/badge/Fraud%20Detection-blue)
+![Incident%20Response](https://img.shields.io/badge/Incident%20Response-red)
+![Security%20Awareness](https://img.shields.io/badge/Security%20Awareness-green)
+![Penetration%20Testing](https://img.shields.io/badge/Penetration%20Testing-orange)
+
+
 ## Overview
 
 Completed the Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage.
