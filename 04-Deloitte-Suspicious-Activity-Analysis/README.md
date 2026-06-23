@@ -1,5 +1,12 @@
 # Deloitte Suspicious Activity Analysis
 
+
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-blue)
+![Threat%20Hunting](https://img.shields.io/badge/Threat%20Hunting-red)
+![Incident%20Investigation](https://img.shields.io/badge/Incident%20Investigation-orange)
+![Cyber%20Security](https://img.shields.io/badge/Cyber%20Security-green)
+
+
 ## Simulation
 
 Deloitte Australia Cyber Job Simulation - Forage
